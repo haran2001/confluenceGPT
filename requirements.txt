@@ -1,0 +1,22 @@
+# requirements.txt
+
+# HTTP Requests and Scraping
+requests>=2.26.0
+beautifulsoup4>=4.10.0
+
+# Streamlit for the chatbot UI
+streamlit>=1.10.0
+
+# AWS
+boto3>=1.18.0
+requests-aws4auth>=1.1.1
+
+# OpenSearch client
+opensearch-py>=2.0.0
+
+# Embeddings
+sentence-transformers>=2.2.0
+numpy>=1.21.0
+
+# Environment Variables
+python-dotenv>=0.20.0
